@@ -25,7 +25,7 @@ SECRET_KEY = 'icwdj)cmh5we6lj-qwcwdi93go#xb(nq-=+qys(-bjbhaem53#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<CyberAstro>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '<gitBitcoins>.pythonanywhere.com']
 
 
 # Application definition
